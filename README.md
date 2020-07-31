@@ -1,5 +1,5 @@
 ## Krzysztof Borowiecki
-<br />
+
 Hi, I'm Krzysztof - student of the Opole University of Technology.
 
 <br />
