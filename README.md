@@ -15,7 +15,7 @@ Hi, I'm Krzysztof - student of the Opole University of Technology.
 - Console Programs 
 
 
-
+<br />
 
 ## My motivation
 <br />
