@@ -49,8 +49,8 @@
 
 ### Get in touch :
 
-<img align="left" alt=" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-<img align="left" alt=" | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+<img align="left" alt=" | LinkedIn" width="22px" src="https://image.flaticon.com/icons/svg/174/174857.svg" />
+<img align="left" alt=" | Facebook" width="22px" src="https://image.flaticon.com/icons/svg/1384/1384053.svg" />
 <img align="left" alt=" | Instagram" width="22px" src="https://image.flaticon.com/icons/svg/174/174855.svg" />
 
 <br />
