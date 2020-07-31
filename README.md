@@ -30,7 +30,7 @@
 
 
 ### Languages and Tools:
-<img align="left" alt=".NET" width="26px" src="https://user-images.githubusercontent.com/12221569/57069689-638d6700-6ce6-11e9-8898-59186ef0513e.PNG" />
+<img align="left" alt=".NET" width="26px" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/06/BrandVisualStudioWin2019-3.svg" />
 <img align="left" alt=".NET" width="26px" src="https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/dotnet/dotnet.png" />
 <img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
