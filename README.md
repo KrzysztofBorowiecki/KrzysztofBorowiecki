@@ -21,7 +21,6 @@
 
 
  I want to be programmer and writing code , because I like develop my self.
-
  Coding for me it's new area where I can show my self and my ideas.
 
 
