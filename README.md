@@ -2,10 +2,11 @@
 <br />
 Hi, I'm Krzysztof - student of the Opole University of Technology.
 
+<br />
+
 
 ## My goals 
 
-<br />
 
 - Learning C#
 - Be better in ASP.NET 
@@ -13,7 +14,7 @@ Hi, I'm Krzysztof - student of the Opole University of Technology.
 - Learn Java 
 - Console Programs 
 
-<br />
+
 
 
 ## My motivation
