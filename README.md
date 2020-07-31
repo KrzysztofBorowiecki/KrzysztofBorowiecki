@@ -16,7 +16,7 @@ Hi, I'm Krzysztof - student of the Opole University of Technology.
 
 
 
-## My mottivation
+## My motivation
 
 
 > I want to be programmer and writing code , because I like develop my self.
