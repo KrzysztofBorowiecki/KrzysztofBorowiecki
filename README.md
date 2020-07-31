@@ -19,20 +19,20 @@ Hi, I'm Krzysztof - student of the Opole University of Technology.
 ## My motivation
 <br />
 
-> I want to be programmer and writing code , because I like develop my self.
+ I want to be programmer and writing code , because I like develop my self.
 
-> Coding for me it's new area where I can show my self and my ideas.
+ Coding for me it's new area where I can show my self and my ideas.
 
 
 <br />
 
 ### Get in touch :
+
+<img align="left" alt=" | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+<img align="left" alt=" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<img align="left" alt=" | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+
 <br />
-
-<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-
 <br />
 
 ### Languages and Tools:
