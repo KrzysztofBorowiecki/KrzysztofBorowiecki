@@ -1,6 +1,10 @@
 ## Krzysztof Borowiecki
 
   Hi, I'm Krzysztof - student of the Opole University of Technology.
+  
+  I looking for a first job or apprenticeships.
+  
+  I want to get more experience and skill
 
 <br />
 
@@ -48,7 +52,8 @@
 <br />
 <br />
 
-### Write to me<img align="left" alt=" | LinkedIn" width="22px" src="https://image.flaticon.com/icons/svg/174/174857.svg" />
+### Write to me
+<img align="left" alt=" | LinkedIn" width="22px" src="https://image.flaticon.com/icons/svg/174/174857.svg" />
 
 
 
