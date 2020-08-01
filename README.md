@@ -48,9 +48,9 @@
 <br />
 <br />
 
-### Write to me :
+### Write to me <img align="left" alt=" | LinkedIn" width="22px" src="https://image.flaticon.com/icons/svg/174/174857.svg" />
 
-<img align="left" alt=" | LinkedIn" width="22px" src="https://image.flaticon.com/icons/svg/174/174857.svg" />
+
 
 <br />
 <br />
