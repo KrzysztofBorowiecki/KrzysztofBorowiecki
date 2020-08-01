@@ -5,6 +5,10 @@
   I looking for a first job or apprenticeships.
   
   I want to get more experience and skill
+  
+  I want to be programmer and writing code , because I like develop my self.
+ 
+  Coding for me it's new area where I can show my self and my ideas.
 
 <br />
 
@@ -21,13 +25,6 @@
 
 
 <br />
-
-## My motivation
-
-
- I want to be programmer and writing code , because I like develop my self.
- 
- Coding for me it's new area where I can show my self and my ideas.
 
 
 <br />
@@ -67,7 +64,7 @@
 **KrzysztofBorowiecki/KrzysztofBorowiecki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ### Hej! 👋
 Here are some ideas to get you started:
-
+## My motivation
 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
