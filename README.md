@@ -15,6 +15,7 @@
 - Get to know more about .NET platform 
 - Learn Java 
 - Be more effective
+- Improve my english
 
 
 
