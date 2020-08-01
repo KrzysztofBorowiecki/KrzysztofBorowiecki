@@ -12,7 +12,7 @@
 
 - Write better code
 - Be better in ASP.NET 
-- Get ot know more about .NET platform 
+- Get to know more about .NET platform 
 - Learn Java 
 - Be more effective
 
@@ -48,8 +48,6 @@
 
 
 
-<br />
-<br />
 
 
 
