@@ -1,7 +1,7 @@
 ## Krzysztof Borowiecki
 
-  Hi, I'm Krzysztof - student of the Opole University of Technology. I looking for a first job or apprenticeships.
-  I want to get more experience and skills. I want to be programmer and writing code , because I like develop my self.
+  Hi, I'm Krzysztof - student of the Opole University of Technology.  I looking for a first job or apprenticeships.
+  I want to get more experience and skills.  I want to be programmer and writing code , because I like develop my self.
   Coding for me it's new area where I can show my self and my ideas.
 
 <br />
