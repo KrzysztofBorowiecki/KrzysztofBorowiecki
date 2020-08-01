@@ -10,7 +10,7 @@
 ## My goals 
 
 
-- Learning C#
+- Write better code
 - Be better in ASP.NET 
 - Get ot know more about .NET platform 
 - Learn Java 
