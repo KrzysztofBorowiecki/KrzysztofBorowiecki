@@ -1,3 +1,4 @@
+## About Me
 
   Hi, I'm Krzysztof - a student at the Opole University of Technology. I looking for a first job or apprenticeships.
   I want to get more experience and skills. I want to be a programmer and writing code because I like to develop myself.
