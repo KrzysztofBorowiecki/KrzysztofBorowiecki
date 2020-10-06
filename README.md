@@ -1,8 +1,8 @@
 ## Krzysztof Borowiecki
 
-  Hi, I'm Krzysztof - student of the Opole University of Technology.  I looking for a first job or apprenticeships.
-  I want to get more experience and skills.  I want to be programmer and writing code , because I like develop my self.
-  Coding for me it's new area where I can show my self and my ideas.
+  Hi, I'm Krzysztof - a student at the Opole University of Technology. I looking for a first job or apprenticeships.
+  I want to get more experience and skills. I want to be a programmer and writing code because I like to develop myself.
+  Coding for me it's a new area where I can show myself and my ideas.
 
 <br />
 
@@ -10,12 +10,13 @@
 ## My goals 
 
 
-- Write better code
-- Be better in ASP.NET 
-- Get to know more about .NET platform 
-- Learn Java 
+- My goals
+- Writing better code
+- Be better in ASP.NET
+- Get to know more about .NET platform
+- Learn Java
 - Be more effective
-- Improve my english
+- Improve my English
 
 
 
@@ -47,23 +48,3 @@
 
 ### Write to me
 <a href="https://www.linkedin.com/in/krzysztof-borowiecki58/"><img align="left" alt=" | LinkedIn" width="22px" src="https://image.flaticon.com/icons/svg/174/174857.svg" /></a>
-
-
-
-
-
-
-
-<!--
-**KrzysztofBorowiecki/KrzysztofBorowiecki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-### Hej! 👋
-Here are some ideas to get you started:
-## My motivation
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
