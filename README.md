@@ -1,6 +1,6 @@
 ## About Me
 
-  When I was little I used to build my idea Lego bricks.When I was older I moved to the garage and started  diy with a hammer:hammer: and wrenches:wrench:.
+  When I was little I used to build my idea Lego bricks. When I was older I moved to the garage and started  diy with a hammer:hammer: and wrenches:wrench:.
   Today I am a student of the Opole University of Technology:mortar_board: and I use a keyboard to build and implement my ideas.
   Many years have passed and I still want to create and implement my ideas that you can see and try (my repository).
   Now I am looking for my first experience as a programmer because I would like to be even better at what I do and make even cooler projects:computer: :trophy:.
