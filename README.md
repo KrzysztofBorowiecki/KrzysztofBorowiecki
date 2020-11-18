@@ -42,7 +42,7 @@
 <img align="left" alt="Visual Studio" width="24px" src="https://visualstudio.microsoft.com/wp-content/uploads/2019/06/BrandVisualStudioWin2019-3.svg" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/89bdd9644f44d1b12180fd512b95574fe4c54617/topics/github-api/github-api.png" />
-<img align="left" alt="SQL" width="26px" src="https://brodenz.com/wp-content/uploads/2020/05/SQL-Server-Management-Studio-Icon.png" />
+<img align="left" alt="SQL" width="50px" src="https://brodenz.com/wp-content/uploads/2020/05/SQL-Server-Management-Studio-Icon.png" />
 
 
 
