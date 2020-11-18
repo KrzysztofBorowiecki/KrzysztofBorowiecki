@@ -51,5 +51,5 @@
 <br />
 
 ### Write to me
-<a href="https://www.linkedin.com/in/krzysztof-borowiecki58/"><img align="left" alt=" | LinkedIn" width="26px" src="https://image.flaticon.com/icons/svg/174/174857.svg" /></a>
+<a href="https://www.linkedin.com/in/krzysztof-borowiecki58/"><img align="left" alt=" | LinkedIn" width="36px" src="https://image.flaticon.com/icons/svg/174/174857.svg" /></a>
 
