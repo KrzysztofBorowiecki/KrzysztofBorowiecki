@@ -19,7 +19,8 @@
 - CSS
 - ASP.NET Core / MVC
 - WPF
-- JavaScript - still learning 
+- JavaScript / TypeScript - still learning 
+- Angular - still learning 
 - xUnit
 - Entity Framework Core
 - AutoFac
