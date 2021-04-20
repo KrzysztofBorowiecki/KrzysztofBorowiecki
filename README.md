@@ -24,7 +24,6 @@
 - xUnit
 - Entity Framework Core
 - AutoFac
-- InMemoryDb
 - SOLID, KISS, DRY principles
 - Some design patterns
 
