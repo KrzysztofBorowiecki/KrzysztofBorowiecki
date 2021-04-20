@@ -2,7 +2,7 @@
 
  When I was little I used to build my idea Lego bricks. Then when I was older I moved to the garage and started diy with a hammer:hammer: and wrenches:wrench:.
  Today I am a student of the Opole University of Technology:mortar_board: and I use a keyboard to build and implement my ideas.
- Many years have passed and I still want to create and implement my ideas that you can see and try (my repositorys).
+ Many years have passed and I still want to create and implement my ideas that you can see and try (my repositiories).
  I had the opportunity to catch my first commercial experience as a programmer writing in C# and Angular. I would like to develop further and gain more experience being .NET       developer:computer: :trophy:.
 
 <br />
